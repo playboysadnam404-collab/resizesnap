@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://YOUR-DOMAIN.example/sitemap.xml
+
+Sitemap: https://playboysadnam404-collab.github.io/resizesnap/sitemap.xml
